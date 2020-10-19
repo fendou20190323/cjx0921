@@ -1,13 +1,13 @@
-package com.fendou.cjx.cjx0921;
+package com.fendou.cjx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cjx0921Application {
+public class RocketMQService {
 
     public static void main(String[] args) {
-        SpringApplication.run(Cjx0921Application.class, args);
+        SpringApplication.run(RocketMQService.class, args);
     }
 
 }
