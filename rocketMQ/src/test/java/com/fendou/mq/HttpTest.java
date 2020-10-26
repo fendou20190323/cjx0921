@@ -2,6 +2,7 @@ package com.fendou.mq;
 
 import lombok.extern.log4j.Log4j2;
 import okhttp3.*;
+import org.junit.Test;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -117,6 +118,9 @@ public class HttpTest {
 
     }
 
+
+    public void testHttpClient(){
+    }
 }
 
 
