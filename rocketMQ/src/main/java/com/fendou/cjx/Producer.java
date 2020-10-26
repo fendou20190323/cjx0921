@@ -1,4 +1,4 @@
-package com.fendou.cjx.rocketMQ;
+package com.fendou.cjx;
 
 /**
  * @Author: cjx

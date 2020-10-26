@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rocketMQ</module>
+        <module>rocketMQ2</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>rocketMQ</artifactId>
+    <artifactId>rocketMQ2</artifactId>
 
     <properties>
         <rocketmq-spring-boot-starter-version>2.0.3</rocketmq-spring-boot-starter-version>
@@ -26,5 +26,4 @@
             <version>3.10.0</version>
         </dependency>
     </dependencies>
-
 </project>
